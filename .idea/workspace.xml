@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f322603-7125-4547-bff0-16e59e653389" name="Changes" comment="Creación proyecto proframacion 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9f322603-7125-4547-bff0-16e59e653389" name="Changes" comment="Paquetes necesarios para el desarrollo del proyecto">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyectoFinal_III/Model/Anunciante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +60,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "Proyecto",
     "node.js.detected.package.eslint": "true",
@@ -94,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695166303089</updated>
       <workItem from="1695166304160" duration="648000" />
-      <workItem from="1695495239465" duration="718000" />
+      <workItem from="1695495239465" duration="1609000" />
     </task>
     <task id="LOCAL-00001" summary="Creación proyecto proframacion 3">
       <option name="closed" value="true" />
@@ -112,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695495359488</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Paquetes necesarios para el desarrollo del proyecto">
+      <option name="closed" value="true" />
+      <created>1695497299322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695497299322</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +142,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creación proyecto proframacion 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creación proyecto proframacion 3" />
+    <MESSAGE value="Paquetes necesarios para el desarrollo del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paquetes necesarios para el desarrollo del proyecto" />
   </component>
 </project>
