@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f322603-7125-4547-bff0-16e59e653389" name="Changes" comment="Paquetes necesarios para el desarrollo del proyecto">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyectoFinal_III/Model/Anuncio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyectoFinal_III/Model/Comprador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyectoFinal_III/Model/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyectoFinal_III/Model/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyectoFinal_III/Model/Usuario.java" afterDir="false" />
+    <list default="true" id="9f322603-7125-4547-bff0-16e59e653389" name="Changes" comment="Clases del proyecto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyectoFinal_III/ViewController/L.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyectoFinal_III/ViewController/AnuncioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/co.edu.uniquindio.proyectoFinal_III/l.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/co.edu.uniquindio.proyectoFinal_III/anuncios-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +99,8 @@
       <updated>1695166303089</updated>
       <workItem from="1695166304160" duration="648000" />
       <workItem from="1695495239465" duration="3643000" />
-      <workItem from="1695511141890" duration="373000" />
+      <workItem from="1695511141890" duration="1967000" />
+      <workItem from="1695693706028" duration="1126000" />
     </task>
     <task id="LOCAL-00001" summary="Creación proyecto proframacion 3">
       <option name="closed" value="true" />
@@ -144,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695500275204</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Clases del proyecto">
+      <option name="closed" value="true" />
+      <created>1695512508784</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695512508784</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +170,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creación proyecto proframacion 3" />
     <MESSAGE value="Paquetes necesarios para el desarrollo del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Paquetes necesarios para el desarrollo del proyecto" />
+    <MESSAGE value="Clases del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clases del proyecto" />
   </component>
 </project>
