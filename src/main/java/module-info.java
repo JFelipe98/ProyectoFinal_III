@@ -3,6 +3,10 @@ module com.example.proyectofinaliii {
     requires javafx.fxml;
 
 
-    opens com.example.proyectofinaliii to javafx.fxml;
-    exports com.example.proyectofinaliii;
+    opens co.edu.uniquindio.proyectoFinal_III.ViewController;
+    exports co.edu.uniquindio.proyectoFinal_III.ViewController;
+
+   opens com.example.proyectofinaliii.viewController;
+   exports com.example.proyectofinaliii.viewController;
+
 }

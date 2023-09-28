@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.proyectofinaliii.viewController.HelloController">
+   <children>
+      <Button layoutX="117.0" layoutY="188.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="101.0" text="ANUNCIO" />
+      <Button layoutX="374.0" layoutY="188.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="101.0" text="PRODUCTO" />
+      <Label layoutX="130.0" layoutY="46.0" prefHeight="54.0" prefWidth="339.0" text="SUBASTAS QUINDÍO" textAlignment="CENTER">
+         <font>
+            <Font name="Rockwell Extra Bold" size="29.0" />
+         </font></Label>
+   </children>
+</AnchorPane>
